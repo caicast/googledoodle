@@ -1,25 +1,76 @@
-/* My Awesome Styles */
-
-/* Diagnostic Styling 
-  * Change Background Color
-  * Outline Elements
+/* 
+* URL to Google Doodle template
+https://codepen.io/manikoth/pen/NNNBYe.css
 */
 
-* {
-    outline: 1px dotted black;
+#cloud1 {
+  position: absolute;
+  width: 198px;
+  height: 116px;
+  top: -13px;
+  left: 444px;
+}
+
+#cloud2 {
+position: relative;
+width: 198px
+height: 116px
+top: 6px
+left: -23px
+
+}
+
+#google {
+position: absolute;
+width: 233.66px
+height: 64.6px
+top: 124.36px
+left: 182.86px
+
+}
+
+#star1 {
+position: relative;
+width: 58.72px
+height: 56.13px
+top: 149px
+left: 551.87px
+
+}
+
+#star2 {
+position: relative;
+width: 58.72px
+height: 56.13px
+top: 8px
+left: 414.87px
+
+}
+
+#star3 {
+position: relative;
+width: 58.72px
+height: 56.13px
+top: -4px
+left: 144.87px
+
+}
+
+#star4 {
+position: relative;
+width: 58.72px
+height: 56.13px
+top: -4px
+left: 144.87px
+
 }
 
 /* Doodle Stage */
 #stage {
-  background: #ccc;
-  height: 300px;
+  background: linear-gradient(180deg, #a3c7fd 0%, #244c89 90.5%);
+
+  /* match to your SVG  */
+  position: fixed;
   width: 600px;
-}
-
-#heart1 {
-  fill: red;
-}
-
-#heart2 {
-  fill: green;
+  height: 300px;
 }

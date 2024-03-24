@@ -1,6 +1,6 @@
-# My Topic Google Doodle
+# Stars
 
-50+ words about your Google Doodle.
+My Google doodle is based on the stars. I lovee anything to do wiht space so here is the star themed google doodle.
 
 ## Collage
 
